@@ -5,7 +5,7 @@
 
 ```javascript
 const myInformation = {
-      mobil: [Flutter],
+      mobil: [Flutter, Nativescript-Vue],
       frontEnd: [HTML, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
       backEnd: [Node.js, Docker, API, HTTP, Socket.io, Websocket, TCP/IP, NGINX],
       database: [MySQL],
