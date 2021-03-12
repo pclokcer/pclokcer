@@ -6,11 +6,13 @@
 ```javascript
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
-      frontEnd: [HTML, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
+      frontEnd: [HTML, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex],
       backEnd: [Node.js, Docker, API, HTTP, Socket.io, Websocket, TCP/IP, NGINX],
-      database: [MySQL],
+      database: [MySQL, MongoDB],
+      desktop: [C#, Electron.js],
       technology: [AWS],
-      os: [Linux, Windows]
+      os: [Linux, Windows],
+      armLinux: [OrangePi]
 }
 ```
 
