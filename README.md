@@ -6,8 +6,8 @@
 ```javascript
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
-      frontEnd: [HTML, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex],
-      backEnd: [Node.js, Docker, API, HTTP, Socket.io, Websocket, TCP/IP, NGINX],
+      frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex],
+      backEnd: [Node.js, Javascript, Docker, API, HTTP, Socket.io, Websocket, TCP/IP, NGINX],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
       technology: [AWS],
@@ -20,6 +20,12 @@ const myInformation = {
 [![GitHub fesa6654](https://img.shields.io/github/followers/pclokcer?label=follow&style=social)](https://github.com/pclokcer)
 [![Instagram Badge](https://img.shields.io/badge/-ErdemÜN-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sefaun_10/)](https://instagram.com/pclokcer)
 [![Hotmail Badge](https://img.shields.io/badge/-pclokcer@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pclokcer@hotmail.com)](mailto:pclokcer@hotmail.com)
+
+### 💪 Some Projects
+
+* [My Website](http://www.erdemun.com/)
+* [Web Design](https://tesisim.com/)
+* [Cafe](http://e-garsonum.com/ana-sayfa)
 
 ---
 ### <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -70,13 +76,6 @@ const myInformation = {
 ![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
-### 💪 Some Project
-
-* [My Website](http://www.erdemun.com/)
-* [Web Design](http://www.alvemsis.com/)
-* [Cafe](http://e-garsonum.com/ana-sayfa)
-
----
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pclokcer&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pclokcer&hide=TeX&layout=compact)
 ---
