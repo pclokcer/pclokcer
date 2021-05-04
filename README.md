@@ -12,7 +12,8 @@ const myInformation = {
       desktop: [C#, Electron.js],
       technology: [AWS],
       os: [Linux, Windows],
-      armLinux: [OrangePi]
+      armLinux: [OrangePi],
+      git: [Github, Bitbucket]
 }
 ```
 
