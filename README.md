@@ -10,10 +10,11 @@ const myInformation = {
       backEnd: [Node.js, Javascript, Docker, API, HTTP, Socket.io, Websocket, TCP/IP, NGINX, RabbitMQ],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
-      technology: [AWS],
+      webServices: [AWS],
       os: [Linux, Windows],
       armLinux: [OrangePi],
-      git: [Github, Bitbucket]
+      git: [Github, Bitbucket],
+      workFlow: [Jira, Confluence]
 }
 ```
 
