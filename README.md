@@ -25,7 +25,7 @@ const myInformation = {
 
 ### 💪 Some Projects
 
-* [My Website](https://www.erdemun.com/)
+* [My Website](https://erdemun.com/)
 * [Web Design](https://tesisim.com/)
 * [Cafe](http://e-garsonum.com/ana-sayfa)
 
