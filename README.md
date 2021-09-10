@@ -14,7 +14,8 @@ const myInformation = {
       os: [Linux, Windows],
       armLinux: [OrangePi],
       git: [Github, Bitbucket],
-      workFlow: [Jira, Confluence]
+      workFlow: [Jira, Confluence],
+      gameDeveloper: [UnrealEngine 4]
 }
 ```
 
