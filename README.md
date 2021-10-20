@@ -6,7 +6,7 @@
 ```javascript
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
-      frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex],
+      frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex, Canvas],
       backEnd: [Node.js, Javascript, REST-API, Docker, HTTP, Socket.io, Websocket, TCP/IP, NGINX, RabbitMQ, Redis, MQTT],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
