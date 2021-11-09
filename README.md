@@ -7,7 +7,7 @@
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
       frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex, Canvas],
-      backEnd: [Node.js, Golang Javascript, REST-API, Docker, HTTP, Socket.io, Websocket, TCP/IP, NGINX, RabbitMQ, Redis, MQTT],
+      backEnd: [Node.js, Golang Javascript, REST-API, Docker, HTTP, Socket.io, Websocket, TCP/IP, NGINX, RabbitMQ, Redis, MQTT, WebRTC],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
@@ -28,6 +28,7 @@ const myInformation = {
 
 * [My Website](https://erdemun.com/)
 * [Web Design](https://tesisim.com/)
+* [WebRTC](https://weparley.com)
 * [Cafe](http://e-garsonum.com/ana-sayfa)
 
 ---
@@ -52,31 +53,11 @@ const myInformation = {
 ![Git](https://img.shields.io/badge/-Git-purple?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
+![Golang](https://camo.githubusercontent.com/a6739f2a813cbc084c3d40289607c0836a37c25c4a05965554232b03aeb652fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d476f6c616e672d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676f266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)
+![Bitbucket](https://camo.githubusercontent.com/34aa44323ae7a551dbe1552ad29d75829775eeadbf08d0fd330db9005624fdbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574)
+![Mongo](https://camo.githubusercontent.com/a15a24d9faa7d2533bf1a1bdef16c65342ea3c8e61a6e35f42915976752b37eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d2532334646303041412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![WebRTC](https://camo.githubusercontent.com/2ffa3ac937671aee2beaaa0c8cc6e6508ccb39ed78c79fb4cfa5523878f6fed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765625254432d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d576562525443266c6f676f436f6c6f723d7768697465)
 
----
-### Node.Js Modules <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30px">
-![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
-![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
-![npm](https://img.shields.io/npm/v/net?label=net)
-![npm](https://img.shields.io/npm/v/jsonwebtoken?label=jsonwebtoken)
-![npm](https://img.shields.io/npm/v/bcryptjs?label=bcryptjs)
-![npm](https://img.shields.io/npm/v/crypto-js?label=crypto-js)
-![npm](https://img.shields.io/npm/v/mqtt?label=mqtt)
-![npm](https://img.shields.io/npm/v/express?label=express)
-![npm](https://img.shields.io/npm/v/moment?label=moment)
-![npm](https://img.shields.io/npm/v/excel4node?label=excel4node)
-![npm](https://img.shields.io/npm/v/nodemailer?label=nodemailer)
-![npm](https://img.shields.io/npm/v/axios?label=axios)
-![npm](https://img.shields.io/npm/v/http?label=http)
-![npm](https://img.shields.io/npm/v/joi?label=joi)
-![npm](https://img.shields.io/npm/v/mkdirp?label=mkdirp)
-![npm](https://img.shields.io/npm/v/mysql?label=mysql)
-![npm](https://img.shields.io/npm/v/node-cache?label=node-cache)
-![npm](https://img.shields.io/npm/v/node-cron?label=node-cron)
-![npm](https://img.shields.io/npm/v/dotenv?label=dotenv)
-![npm](https://img.shields.io/npm/v/apexcharts?label=apexcharts)
-![npm](https://img.shields.io/npm/v/vuex?label=vuex)
-![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pclokcer&count_private=true&show_icons=true&include_all_commits=true)
