@@ -7,7 +7,7 @@
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
       frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex, Canvas],
-      backEnd: [Node.js, Golang Javascript, REST-API, Docker, WebRTC, Socket.io, TCP/IP, NGINX, RabbitMQ, Redis, MQTT, HTTP],
+      backEnd: [Node.js, Golang, Javascript, REST-API, Docker, WebRTC, Socket.io, TCP/IP, NGINX, RabbitMQ, Redis, MQTT, Typescript],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
