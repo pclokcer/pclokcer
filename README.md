@@ -7,7 +7,8 @@
 const myInformation = {
       mobil: [Flutter, Nativescript-Vue],
       frontEnd: [HTML, Javascript, Vue.js, Nuxt.js, Bootstrap, Vuesax, Vuex, Canvas],
-      backEnd: [Node.js, 
+      backEnd: [
+            Node.js, 
             Golang, 
             Javascript, 
             REST-API, 
