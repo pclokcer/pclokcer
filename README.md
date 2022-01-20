@@ -21,8 +21,9 @@ const myInformation = {
             Redis, 
             MQTT, 
             Typescript,
-            elasticsearch
-      ],
+            Elasticsearch,
+            Prisma(ORM)
+      ]
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
