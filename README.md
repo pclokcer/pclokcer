@@ -75,9 +75,7 @@ const myInformation = {
 ![WebRTC](https://camo.githubusercontent.com/2ffa3ac937671aee2beaaa0c8cc6e6508ccb39ed78c79fb4cfa5523878f6fed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765625254432d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d576562525443266c6f676f436f6c6f723d7768697465)
 
 ---
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pclokcer&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pclokcer&hide=TeX&layout=compact)
 ---
 
 🔗 From [@pclokcer](https://github.com/pclokcer)
