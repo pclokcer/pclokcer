@@ -23,7 +23,7 @@ const myInformation = {
             Typescript,
             Elasticsearch,
             Prisma(ORM)
-      ]
+      ],
       database: [MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
