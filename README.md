@@ -24,7 +24,7 @@ const myInformation = {
             Elasticsearch,
             Prisma(ORM)
       ],
-      database: [MySQL, MongoDB],
+      database: [Postgresql, MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
       os: [Linux, Windows],
