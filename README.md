@@ -22,12 +22,13 @@ const myInformation = {
             MQTT, 
             Typescript,
             Elasticsearch,
-            Prisma(ORM)
+            Prisma(ORM),
+            Kubernetes
       ],
       database: [Postgresql, MySQL, MongoDB],
       desktop: [C#, Electron.js],
       webServices: [AWS],
-      os: [Linux, Windows],
+      os: [Linux(Debian, Ubuntu, Centos 7), Windows],
       armLinux: [OrangePi],
       git: [Github, Bitbucket],
       workFlow: [Jira, Confluence],
