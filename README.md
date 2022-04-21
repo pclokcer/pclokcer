@@ -40,6 +40,7 @@ const myInformation = {
 [![GitHub fesa6654](https://img.shields.io/github/followers/pclokcer?label=follow&style=social)](https://github.com/pclokcer)
 [![Instagram Badge](https://img.shields.io/badge/-ErdemÜN-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sefaun_10/)](https://instagram.com/pclokcer)
 [![Hotmail Badge](https://img.shields.io/badge/-pclokcer@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pclokcer@hotmail.com)](mailto:pclokcer@hotmail.com)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 ### 💪 Some Projects
 
