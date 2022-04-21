@@ -39,7 +39,7 @@ const myInformation = {
 [![Linkedin: ERDEMÜN](https://img.shields.io/badge/-ErdemÜN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdem-%C3%BCn-5b1580153/)](https://www.linkedin.com/in/erdem-%C3%BCn-5b1580153/)
 [![GitHub fesa6654](https://img.shields.io/github/followers/pclokcer?label=follow&style=social)](https://github.com/pclokcer)
 [![Instagram Badge](https://img.shields.io/badge/-ErdemÜN-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sefaun_10/)](https://instagram.com/pclokcer)
-[![Hotmail Badge](https://img.shields.io/badge/-pclokcer@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pclokcer@hotmail.com)](mailto:pclokcer@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-pclokcer@hotmail.com-007fff?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pclokcer@hotmail.com)](mailto:pclokcer@hotmail.com)
 ![](https://komarev.com/ghpvc/?username=pclokcer&color=brightgreen)
 
 ### 💪 Some Projects
