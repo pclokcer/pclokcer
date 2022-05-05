@@ -45,9 +45,8 @@ const myInformation = {
 ### 💪 Some Projects
 
 * [My Website](https://erdemun.com/)
-* [Web Design](https://tesisim.com/)
-* [WebRTC](https://weparley.com)
-* [Cafe](http://e-garsonum.com/ana-sayfa)
+* [IOT System](https://tesisim.com/)
+* [HeloRobo](https://helorobo.com)
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pclokcer&count_private=true&show_icons=true&include_all_commits=true)
