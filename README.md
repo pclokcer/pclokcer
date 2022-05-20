@@ -18,10 +18,9 @@ const myInformation = {
             TCP/IP, 
             NGINX, 
             RabbitMQ, 
-            Redis, 
+            Redis(Pub/Sub, Stream), 
             MQTT, 
             Typescript,
-            Elasticsearch,
             Prisma(ORM),
             Kubernetes
       ],
