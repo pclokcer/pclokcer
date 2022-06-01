@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I’m currently working on 🔭
 
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50px"> I'm Erdem ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50"> I'm Erdem ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30">
 
 ```javascript
 const myInformation = {
