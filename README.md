@@ -22,7 +22,8 @@ const myInformation = {
             MQTT, 
             Typescript,
             Prisma(ORM),
-            Kubernetes
+            Kubernetes,
+            Jenkins
       ],
       database: [Postgresql, MySQL, MongoDB],
       desktop: [C#, Electron.js],
