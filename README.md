@@ -25,7 +25,7 @@ const myInformation = {
             Kubernetes,
             Jenkins
       ],
-      database: [Postgresql, MySQL, MongoDB],
+      database: [Postgresql, MySQL, MongoDB, Elasticsearch],
       desktop: [C#, Electron.js],
       webServices: [AWS],
       os: [Linux(Debian, Ubuntu, Centos 7), Windows],
