@@ -12,7 +12,6 @@ const myInformation = {
             Golang, 
             Javascript, 
             REST-API, 
-            Docker, 
             WebRTC, 
             Socket.io, 
             TCP/IP, 
@@ -21,13 +20,12 @@ const myInformation = {
             Redis(Pub/Sub, Stream), 
             MQTT, 
             Typescript,
-            Prisma(ORM),
-            Kubernetes,
-            Jenkins
+            Prisma(ORM)
       ],
+      devOps: [Docker, Kubernetes, Fluentd, Kibana, Jenkins]
       database: [Postgresql, MySQL, MongoDB, Elasticsearch],
       desktop: [C#, Electron.js],
-      webServices: [AWS],
+      webServices: [AWS(EC2, EKS, ECR)],
       os: [Linux(Debian, Ubuntu, Centos 7), Windows],
       armLinux: [OrangePi],
       git: [Github, Bitbucket],
