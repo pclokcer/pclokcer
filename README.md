@@ -22,7 +22,7 @@ const myInformation = {
             Typescript,
             Prisma(ORM)
       ],
-      devOps: [Docker, Kubernetes, Fluentd, Kibana, Jenkins]
+      devOps: [Docker, Kubernetes, Fluentd, Kibana, Jenkins],
       database: [Postgresql, MySQL, MongoDB, Elasticsearch],
       desktop: [C#, Electron.js],
       cloud: [AWS(EC2, EKS, ECR)],
