@@ -25,7 +25,7 @@ const myInformation = {
       devOps: [Docker, Kubernetes, Fluentd, Kibana, Jenkins],
       database: [Postgresql, MySQL, MongoDB, Elasticsearch],
       desktop: [C#, Electron.js],
-      cloud: [AWS(EC2, EKS, ECR)],
+      cloud: [AWS(EC2, EKS, ECR, Amplify, Route53, VPC)],
       os: [Linux(Debian, Ubuntu, Centos 7), Windows],
       armLinux: [OrangePi],
       git: [Github, Bitbucket],
