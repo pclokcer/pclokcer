@@ -53,5 +53,3 @@ const myInformation = {
 ---
 
 🔗 From [@pclokcer](https://github.com/pclokcer)
-
-<img alt="Erdem ÜN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pclokcer&theme=react-dark"/>
